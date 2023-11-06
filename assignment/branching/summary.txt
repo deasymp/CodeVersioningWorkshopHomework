@@ -1,0 +1,2 @@
+Dani said branching is in a nutshell, 
+it’s a way to diverge from the current versions.
